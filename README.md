@@ -26,4 +26,5 @@ JARVIS is a Python-based voice-activated virtual assistant designed to perform v
 # 6.Continuous Voice Listening
  * Listens for the wake word "Jarvis" and activates for further commands.
 
+# Thank you !!
 
